@@ -288,16 +288,3 @@
     border-color: #00a4e4;
     color: #00a4e4;
 }
-
-header.masthead {
-    padding-top: 10.5rem;
-    padding-bottom: 6rem;
-    text-align: center;
-    color: #333;
-    /* background-image: url("../assets/img/header-bg.jpg"); */
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
-    background-color: #797979;
-}
