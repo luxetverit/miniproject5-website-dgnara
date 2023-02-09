@@ -5096,7 +5096,7 @@ fieldset:disabled .btn {
 .page-link {
     position: relative;
     display: block;
-    color: #ffc800;
+    color: #000;
     text-decoration: none;
     background-color: #fff;
     border: 1px solid #dee2e6;
@@ -11809,6 +11809,11 @@ p {
     #mainNav .navbar-nav .nav-item:last-child {
         margin-right: 0;
     }
+}
+header.boardheader {
+    padding-top: 5.5rem;
+    text-align: center;
+    color: #333333;
 }
 header.masthead {
     padding-top: 10.5rem;
