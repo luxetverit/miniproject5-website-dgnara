@@ -1,8 +1,6 @@
-# Plant Pathology
+# 당근나라
 
-[![Open in Github](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://luxetverit.github.io/miniproject5-website-dgnara/index.html)
-
-![dgnara](assets/img/dgdg.png)
+[![Open in Github](assets/img/dgdg.png)](https://luxetverit.github.io/miniproject5-website-dgnara/index.html)
 
 ## 서비스 주제
 
