@@ -1,8 +1,8 @@
 # Plant Pathology
 
-[![Open in Github](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+[![Open in Github](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://luxetverit.github.io/miniproject5-website-dgnara/index.html)
 
-![dgnara](./img/apple-tree-g4dc5161e2_1280.jpg)
+![dgnara](asset/img/dgdg.png)
 
 ## 서비스 주제
 
@@ -15,7 +15,7 @@
 
 ## 서비스 링크
 
-[GitHub Hosting](https://github.com/luxetverit/miniproject4/blob/main/README_model.md)
+[GitHub Hosting](https://luxetverit.github.io/miniproject5-website-dgnara/index.html)
 
 ## 서비스 목업
 
