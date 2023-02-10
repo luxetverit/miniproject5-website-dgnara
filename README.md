@@ -8,7 +8,7 @@
 
 ## 서비스 개요
 
-쓰기엔 불편하고 다소 어색하지만
+쓰기엔 불편하고 어색하지만
 보기에는 그럴듯한 중고거래 플랫폼
 
 ## 서비스 링크
@@ -17,10 +17,37 @@
 
 ## 서비스 목업
 
-이미지를 여기에 올립니다![dgnara](./img/apple-tree-g4dc5161e2_1280.jpg)
-![dgnara](./img/apple-tree-g4dc5161e2_1280.jpg)
+### 메인
+
+![dgnara](assets/mock-img/dgmain.png)
+
+### 서비스 소개
+
+![dgnara](assets/mock-img/dginfo.png)
+
+### 인기매물
+
+![dgnara](assets/mock-img/dgsales.png)
+
+### 상품디테일
+
+![dgnara](assets/mock-img/dgsalesdetail.png)
+
+### 팀원소개
+
+![dgnara](assets/mock-img/dgwho.png)
+
+### 게시판
+
+![dgnara](assets/mock-img/dgboard.png)
+
+### 로그인
+
+![dgnara](assets/mock-img/dglogin.png)
 
 ## 시연 영상
+
+시연영상
 
 ## 조원(이름순)
 
