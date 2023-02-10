@@ -47,7 +47,7 @@
 
 ## 시연 영상
 
-### [PLAY🎃](https://luxetverit.github.io/miniproject5-website-dgnara/index.html)
+### [PLAY🎃](https://luxetverit.github.io/miniproject5-website-dgnara/index.html){: target="\_blank"}
 
 ## 조원(이름순)
 
