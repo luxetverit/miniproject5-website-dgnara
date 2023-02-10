@@ -2,7 +2,7 @@
 
 [![Open in Github](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://luxetverit.github.io/miniproject5-website-dgnara/index.html)
 
-![dgnara](asset/img/dgdg.png)
+![dgnara](assets/img/dgdg.png)
 
 ## 서비스 주제
 
