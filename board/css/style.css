@@ -287,3 +287,8 @@ a {
     border: 0;
     resize: vertical;
 }
+
+#disqus_thread {
+    width: 80%;
+    justify-content: center;
+}
